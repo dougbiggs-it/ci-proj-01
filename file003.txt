@@ -5,3 +5,4 @@ feb 7, 2022
 feb 7, 2022
 feb 7, 2022 at 5:31p
 feb 7, 2022 at 5:52p
+configuring emails content/structure
